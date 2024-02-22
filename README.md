@@ -1,6 +1,8 @@
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=Instagram&logoColor=white)]([https://x.com/](https://www.instagram.com/too_levin/)) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tooklevin/) 
 
 # 💻 Tech Stack:
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
