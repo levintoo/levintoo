@@ -1,8 +1,9 @@
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=Instagram&logoColor=white)]([https://x.com/](https://www.instagram.com/too_levin/)) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tooklevin/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tooklevin) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/too_levin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/levin-kipkemboi) 
 
 # 💻 Tech Stack:
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
