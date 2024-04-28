@@ -24,8 +24,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=levintoo&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=levintoo&theme=default&hide_border=true)
 
-### 😎 Cool Dev Meme:
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+### 😎 Cool Dev Comic:
+<!-- <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->
+<img src="https://random-xkcd-url.glitch.me/random-xkcd" alt="A programming comic" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=levintoo&icon=0&color=0)](https://visitcount.itsvg.in)
