@@ -21,7 +21,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=levintoo&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=levintoo&theme=default&hide_border=true&count_private=true&layout=compact&langs_count=8)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=levintoo&theme=default&hide_border=true)
 
 ### 😎 Cool Dev Comic:
